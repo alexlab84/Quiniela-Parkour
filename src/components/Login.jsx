@@ -151,7 +151,8 @@ export default Login;
 
 
 
-// {
+// {    
+//     'jornada': 1,
 //     'partidos': [
 //         {
 //           "local": "Athletic Bilbao",
